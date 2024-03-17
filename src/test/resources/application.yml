@@ -1,0 +1,12 @@
+server:
+  port: 9090
+dht:
+  node:
+    id: 0
+    address: localhost:9090
+    join:
+      address:
+    security:
+      username: username
+      password: password
+
